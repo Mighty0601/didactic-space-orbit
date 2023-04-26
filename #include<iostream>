@@ -1,0 +1,51 @@
+#include<iostream>
+using namspace std
+
+int main()
+{
+    intnum,factorial=1;
+
+    string name;
+    /cout<<"Name:";
+    getline(cin,number)
+
+cout<<"Reg No :2021030199416"<<endl:
+
+cout<<"enter digit:";
+cin>>num
+
+for(int i =1; i<=num;i++)
+factorial=factorial*i;
+cout<<"factorial of reg number is "
+<<factorial<<endl;
+
+cout<<"enter digit"
+cin>>num;
+
+for(inti=1;i<=num;i++)
+factorial=factorial*i
+
+cout<<"factorial of reg number is"
+<<factorial<<endl;
+
+cout<<"enter digit:";
+cin>>num
+
+for(int i=1;i<=num;i++)
+factorial=factorial*i"
+
+cout<<"factorial of reg number is"
+<<factorial<<endl;
+
+cout<<"enter digit:";
+cin>>num
+
+for(int i=1;i<=num;i++)
+factorial=factorial*i
+
+cout<<"factorial of reg number is"
+<<factorial<<endl;
+
+
+system("pause>0");
+}
